@@ -1,4 +1,4 @@
-# Tutorial
+# Authentication Application
 This is simple Login and Signup app with Java and Spring Boot.
 This App Uses Username,Email & Password to register User
 ![alt text](https://github.com/Mihirlalwani/Tutorial/blob/master/Images/Input.png)
